@@ -1,6 +1,6 @@
 import colorama
 from colorama import Fore, Style
-print(Fore.RED + '''              _                          _          __        
+print(Fore.RED + '''         _                          _          __        
         | |                        (_)        / _|       
   _ __  | |__    ___   _ __    ___  _  _ __  | |_   ___  
  | '_ \ | '_ \  / _ \ | '_ \  / _ \| || '_ \ |  _| / _ \ 
