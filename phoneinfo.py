@@ -1,3 +1,12 @@
+print ("        _                          _          __ ")       
+print ("       | |                        (_)        / _|")       
+print (" _ __  | |__    ___   _ __    ___  _  _ __  | |_   ___") 
+print ("| '_ \ | '_ \  / _ \ | '_ \  / _ \| || '_ \ |  _| / _ \") 
+print ("| |_) || | | || (_) || | | ||  __/| || | | || |  | (_) |")
+print ("| .__/ |_| |_| \___/ |_| |_| \___||_||_| |_||_|   \___/") 
+print ("| |")                                                    
+print ("|_|")                                                     
+print ("                                           Version 1.0")               
 import phonenumbers
 from phonenumbers import carrier,geocoder,timezone
 
